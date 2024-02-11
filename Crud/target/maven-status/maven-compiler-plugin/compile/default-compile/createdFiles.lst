@@ -1,0 +1,6 @@
+com\tanvir\Tanvir\Student\StudentConfig.class
+com\tanvir\Tanvir\TanvirApplication.class
+com\tanvir\Tanvir\Student\StudentService.class
+com\tanvir\Tanvir\Student\StudentRepository.class
+com\tanvir\Tanvir\Student\StudentController.class
+com\tanvir\Tanvir\Student\Student.class
